@@ -1,4 +1,4 @@
-# Elucidating and predicting the mechanism of action of compounds and cytotoxicity utilizing machine learning approaches taking prediction confidence into account
+# Elucidating Compound Mechanism of Action and Predicting Cytotoxicity Using Machine Learning Approaches, Taking Prediction Confidence into Account
 
 Georgios Drakakis<sup>1+</sup>, Isidro Cortés Ciriano<sup>1+</sup>, Ben Alexander-Dann<sup>1</sup>, Andreas Bender<sup>1*</sup> 
 
